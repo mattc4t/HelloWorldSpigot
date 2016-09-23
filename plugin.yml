@@ -1,0 +1,4 @@
+name: HelloWorldSpigot
+main: io.github.mattc4t.helloworldspigot.HelloWorldSpigot
+version: 1.0
+commands:
